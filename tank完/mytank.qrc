@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.bmp</file>
+        <file>images/bullet.png</file>
+        <file>images/fire.png</file>
+        <file>images/map_block.png</file>
+        <file>images/player_tank.png</file>
+        <file>images/27967916_132016566540_2.jpg</file>
+        <file>images/background2.jpg</file>
+    </qresource>
+</RCC>
